@@ -1,3 +1,0 @@
-# TUX_SWIMS--1.0.0
-Just a little game...
-erw
